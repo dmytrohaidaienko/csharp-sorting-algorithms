@@ -7,7 +7,7 @@
     <ProjectGuid>{98931DE2-C94A-4252-BB5C-1FCD4E6EAFDA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>BubbleSort_Algorithm</RootNamespace>
-    <AssemblyName>BubbleSort_Algorithm</AssemblyName>
+    <AssemblyName>BubbleSort-Algorithm</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
